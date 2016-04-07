@@ -1,0 +1,19 @@
+https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf
+http://people.csail.mit.edu/camato/publications/LearningInCiv-final.pdf
+https://www.cs.bris.ac.uk/Publications/Papers/2000100.pdf
+http://www.cs.dartmouth.edu/~lorenzo/teaching/cs134/Archive/Spring2009/final/PengTao/final_report.pdf
+http://www.ru.is/faculty/yngvi/pdf/bjornssonhjj04.pdf
+https://webdocs.cs.ualberta.ca/~mmueller/ps/silver-ijcai2007.pdf
+https://users.ics.aalto.fi/praiko/papers/ytp12gusmao.pdf
+http://www.ai.rug.nl/~mwiering/GROUP/ARTICLES/learning_games_TR.pdf
+http://www.ai.rug.nl/~mwiering/GROUP/ARTICLES/paper-othello.pdf
+http://sethares.engr.wisc.edu/paperspdf/AMBell_learning.pdf
+http://www.gm.fh-koeln.de/ciopwebpub/Thi12.d/Thil12.pdf
+http://research.microsoft.com/en-us/events/2011summerschool/jqcandela2011.pdf
+https://www.cs.rutgers.edu/~mlittman/papers/ml94-final.pdf
+http://homes.soic.indiana.edu/adamw/hearts.pdf
+http://www.cs.unm.edu/~pdevineni/papers/Saad.pdf
+http://www.sce.carleton.ca/faculty/schwartz/RCTI/Seminar%20Day/Autonomous%20vehicles/theses/Lu.PhDECE.Spring12.pdf
+http://www.cogsci.rpi.edu/~rsun/si-mal/article3.pdf
+http://geneura.ugr.es/cig2012/papers/paper44.pdf
+http://www.intelligence.tuc.gr/lib/downloadfile.php?id=347   isl1455618800347.pdf
