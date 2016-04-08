@@ -17,3 +17,7 @@ http://www.sce.carleton.ca/faculty/schwartz/RCTI/Seminar%20Day/Autonomous%20vehi
 http://www.cogsci.rpi.edu/~rsun/si-mal/article3.pdf
 http://geneura.ugr.es/cig2012/papers/paper44.pdf
 http://www.intelligence.tuc.gr/lib/downloadfile.php?id=347   isl1455618800347.pdf
+---------------
+https://support.sas.com/resources/papers/proceedings14/SAS313-2014.pdf 	
+http://www.cc.gatech.edu/~isbell/reading/papers/Sprague_Multiple_Goal_RL_IJCAI_2003.pdf
+http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2617630   SSRN-id2617630.pdf
