@@ -1,2 +1,6 @@
 http://www.cse.unsw.edu.au/~cs9417ml/RL1/algorithms.html
 SARSA dan Q-Learning algorithm
+http://www.gmtoolbox.com/
+
+http://gmbase.cubedwater.com/index.php?page=categories&cat=12&orderBy=Rating&dir=Descending#cat12
+http://burlap.cs.brown.edu/tutorials/bpl/p4.html

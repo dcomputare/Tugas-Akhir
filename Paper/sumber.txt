@@ -20,4 +20,12 @@ http://www.intelligence.tuc.gr/lib/downloadfile.php?id=347   isl1455618800347.pd
 ---------------
 https://support.sas.com/resources/papers/proceedings14/SAS313-2014.pdf 	
 http://www.cc.gatech.edu/~isbell/reading/papers/Sprague_Multiple_Goal_RL_IJCAI_2003.pdf
-http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2617630   SSRN-id2617630.pdf
+http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2617630   SSRN-id2617630.pdf	
+---------------------
+http://elib.unikom.ac.id/gdl.php?mod=browse&op=read&id=jbptunikompp-gdl-nurulimann-31004
+http://elib.unikom.ac.id/files/disk1/621/jbptunikompp-gdl-nurulimann-31004-10-13.unik-i.pdf
+http://eprints.undip.ac.id/44789/3/Irfan_Satya_Aji_22010110130158_bab2KTI.pdf
+-------------------------
+http://www.ualberta.ca/~szepesva/papers/singh98convergence.pdf
+https://smartech.gatech.edu/bitstream/handle/1853/21747/tech-report.pdf
+https://www.researchgate.net/profile/Samah_El-Tantawy/publication/261321692_Multi-Agent_Reinforcement_Learning_for_Integrated_Network_of_Adaptive_Traffic_Signal_Controllers_MARLIN-ATSC/links/54c7d4f00cf238bb7d0b6ac9.pdf
