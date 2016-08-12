@@ -1,0 +1,16 @@
+[Controls]
+jump=87
+down=83
+left=65
+right=68
+attack=9001
+special=9002
+taunt=70
+chat1=90
+chat2=88
+chat3=67
+medic=69
+drop=66
+changeTeam=78
+changeClass=77
+showScores=16
