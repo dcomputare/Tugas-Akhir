@@ -1,0 +1,19 @@
+const SQLITE_OPEN_READWRITE_or_SQLITE_OPEN_CREATE = 6
+const SQLITE_OPEN_READONLY = 1
+const SQLITE_OPEN_READWRITE = 2
+kind dll-cdecl
+function sql3_connection_create(filename:string)connection:real
+function sql3_connection_adv_create(filename:string;OPEN_FLAG_CONST:real;zvfs_or_"NULL":string)connection:real
+function sql3_connection_remove(connection:real)resultcode:real
+function sql3_last_result_code_get(connection:real)resultcode:real
+function sql3_last_result_code_text_get(connection:real)resultcodetext:string
+function sql3_result_code_90k_text_get(90kresultcode:real)90kresultcodetext:string
+function sql3_connection_constraint_fkey_toggle(connection:real,toggle:real)bool:real
+function sql3_connection_extended_result_codes_toggle(connection:real;toggle:real)bool:real
+function sql3_connection_last_insert_rowid_get(connection:real)rowid:real
+function sql3_statement_create(connection:real;sqlstring:string)resultcode:real
+function sql3_statement_step(connection:real;statement:real)resultcode:real
+function sql3_statement_row_column_names_get(connection:real;statement:real)row:string
+function sql3_statement_row_data_get(connection:real;statement:real)row:string
+function sql3_statement_reset(connection:real;statement:real)resultcode:real
+function sql3_statement_remove(connection:real;statement:real)resultcode:real
