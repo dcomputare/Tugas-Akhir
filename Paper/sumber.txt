@@ -29,3 +29,5 @@ http://eprints.undip.ac.id/44789/3/Irfan_Satya_Aji_22010110130158_bab2KTI.pdf
 http://www.ualberta.ca/~szepesva/papers/singh98convergence.pdf
 https://smartech.gatech.edu/bitstream/handle/1853/21747/tech-report.pdf
 https://www.researchgate.net/profile/Samah_El-Tantawy/publication/261321692_Multi-Agent_Reinforcement_Learning_for_Integrated_Network_of_Adaptive_Traffic_Signal_Controllers_MARLIN-ATSC/links/54c7d4f00cf238bb7d0b6ac9.pdf
+------------------------------------------------
+https://webdocs.cs.ualberta.ca/~sutton/book/bookdraft2016sep.pdf
