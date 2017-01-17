@@ -1,0 +1,10 @@
+Langkah Langkah dalam melakukan pembelajaran:
+1. Pemberian Reward
+	Pemberian Reward pada cara gerak Bot ditentukan dari seberapa jauh bot dapat berpindah dari aksi yang di lakukan.
+	Pemberian Reward pada cara Menembak Bot ditentukan dari ketepatan dalam melakukan tembakan terhadap lawan. Total Reward ????
+2. Merekam Permainan Bot
+	Pada tahap pertama, Bot akan diberikan beberapa instruksi dalam melakukan pergerakan. Setiap instruksi yang dilakukan bot akan disimpan dan diberikan reward yang pantas untuk aksi tersebut.
+3. Mengolah Data
+	Data yang sudah di rekam akan di normalisasi agar pembacaan tidak terlalu lama. 
+4. Membaca rekaman dan Merekam Permainan Bot
+	Bot akan membaca data yang sudah direkam dan melakukan apa yang sudah direkam apakah sudah cukup optimal. Setiap data yang dilakukan akan direkam sebagai data untuk membantu mengoptimalkan gerakan yang ada.
