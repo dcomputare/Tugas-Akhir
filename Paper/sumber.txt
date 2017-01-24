@@ -31,3 +31,5 @@ https://smartech.gatech.edu/bitstream/handle/1853/21747/tech-report.pdf
 https://www.researchgate.net/profile/Samah_El-Tantawy/publication/261321692_Multi-Agent_Reinforcement_Learning_for_Integrated_Network_of_Adaptive_Traffic_Signal_Controllers_MARLIN-ATSC/links/54c7d4f00cf238bb7d0b6ac9.pdf
 ------------------------------------------------
 https://webdocs.cs.ualberta.ca/~sutton/book/bookdraft2016sep.pdf
+http://www.aaai.org/ocs/index.php/AIIDE/AIIDE11/paper/viewFile/4063/4417
+https://www.ismll.uni-hildesheim.de/lehre/semKIML-13w/script/first-person-shooter.pdf
