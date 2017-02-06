@@ -1,0 +1,6 @@
+SELECT Nama,pos_x,pos_y,movement,avg(Reward) as reward ,aimRadius,enemy_x,enemy_y,count(movement)
+FROM AimingRL 
+where reward>0 
+--and nama='My Bot 2'
+group by nama,pos_x,pos_y,movement,aimradius,enemy_x,enemy_y
+order by reward
