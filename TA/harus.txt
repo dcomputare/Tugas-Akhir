@@ -1,5 +1,0 @@
-Make Variable for saving sql insert to Shooting
-Reward count in 10frame
-all 10 frame has the same reward
-make a variable to count frame
-Reward=(target_HP(now)-target_HP(before))+(player_HP(now)-player_HP(before))
