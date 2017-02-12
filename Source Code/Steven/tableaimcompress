@@ -35,3 +35,21 @@ SELECT *
         FROM "MyBot Thomas".AimingRL
         GROUP BY Nama,GamePlay)
 ORDER BY Nama,Gameplay
+
+
+
+--ACCuracy
+SELECT DS.nama,ds.gameplay,aim.jlh*100.0/ds.ttl as val FROM 
+(
+SELECT nama,gameplay,count(nama)  as jlh
+FROM AimingRL
+Where reward>0
+Group By nama,gameplay) aim
+JOIN 
+(
+SELECT nama,gameplay,count(nama)  as ttl
+FROM AimingRL
+Group By nama,gameplay
+) as ds
+ON ds.gameplay = aim.gameplay
+where ds.nama==aim.nama
