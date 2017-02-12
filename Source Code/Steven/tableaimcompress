@@ -4,3 +4,34 @@ where reward>0
 --and nama='My Bot 2'
 group by nama,pos_x,pos_y,movement,aimradius,enemy_x,enemy_y
 order by reward
+
+
+
+SELECT Nama,GamePlay,max(totalreward) as reward
+FROM "MyBot Steven".GerakRL
+GROUP BY Nama,GamePlay
+UNION
+SELECT Nama,(GamePlay+33)as GamePlay ,max(totalreward) as reward
+FROM "MyBot Calvin".GerakRL
+GROUP BY Nama,GamePlay
+UNION
+SELECT Nama,(GamePlay+66)as GamePlay ,max(totalreward) as reward
+FROM "MyBot Thomas".GerakRL
+GROUP BY Nama,GamePlay
+
+
+
+
+SELECT *
+    FROM(SELECT Nama,sum(Reward)/15 as reward,GamePlay 
+        FROM "MyBot Steven".AimingRL
+        GROUP BY Nama,GamePlay
+        UNION
+        SELECT Nama,sum(Reward)/15 as reward,(GamePlay+100) as GamePlay
+        FROM "MyBot Calvin".AimingRL
+        GROUP BY Nama,GamePlay
+        UNION
+        SELECT Nama,sum(Reward)/15 as reward,(GamePlay+200) as GamePlay 
+        FROM "MyBot Thomas".AimingRL
+        GROUP BY Nama,GamePlay)
+ORDER BY Nama,Gameplay
