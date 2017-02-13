@@ -1,0 +1,9 @@
+ERROR in
+action number 1
+of Begin Step Event
+for object GameServer:
+
+In script GameServerBeginStep:Error in code at line 150:   
+    if(file_exists("Maps/" + global.currentMap + ".png"))                                       ^at position 38: Wrong type of arguments to +.
+
+
