@@ -20,40 +20,5 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="8" controlTypeID="com.balsamiq.mockups::Button" x="503" y="170" w="119" h="27" measuredW="101" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Server%20Name</text>
-      </controlProperties>
-    </control>
-    <control controlID="9" controlTypeID="com.balsamiq.mockups::Button" x="503" y="197" w="119" h="27" measuredW="78" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Password</text>
-      </controlProperties>
-    </control>
-    <control controlID="10" controlTypeID="com.balsamiq.mockups::Button" x="503" y="224" w="119" h="27" measuredW="96" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Hosting%20Port</text>
-      </controlProperties>
-    </control>
-    <control controlID="11" controlTypeID="com.balsamiq.mockups::Button" x="503" y="251" w="119" h="27" measuredW="91" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Player%20Limit</text>
-      </controlProperties>
-    </control>
-    <control controlID="12" controlTypeID="com.balsamiq.mockups::Button" x="503" y="278" w="119" h="27" measuredW="84" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Time%20Limit</text>
-      </controlProperties>
-    </control>
-    <control controlID="14" controlTypeID="com.balsamiq.mockups::Button" x="503" y="305" w="119" h="27" measuredW="110" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Respawn%20Time</text>
-      </controlProperties>
-    </control>
-    <control controlID="15" controlTypeID="com.balsamiq.mockups::Button" x="503" y="332" w="119" h="27" measuredW="100" measuredH="27" zOrder="10" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Auto%20Balance</text>
-      </controlProperties>
-    </control>
   </controls>
 </mockup>

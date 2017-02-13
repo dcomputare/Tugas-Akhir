@@ -5,32 +5,12 @@
         <text>Gang%20Garrison%202</text>
       </controlProperties>
     </control>
-    <control controlID="1" controlTypeID="com.balsamiq.mockups::Button" x="503" y="201" w="104" h="27" measuredW="89" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Button" x="503" y="350" w="104" h="27" measuredW="89" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Host%20Game</text>
       </controlProperties>
     </control>
-    <control controlID="2" controlTypeID="com.balsamiq.mockups::Button" x="503" y="235" w="104" h="27" measuredW="94" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Join%20%28Lobby%29</text>
-      </controlProperties>
-    </control>
-    <control controlID="3" controlTypeID="com.balsamiq.mockups::Button" x="503" y="271" w="104" h="27" measuredW="101" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Join%20%28Manual%29</text>
-      </controlProperties>
-    </control>
-    <control controlID="4" controlTypeID="com.balsamiq.mockups::Button" x="503" y="343" w="104" h="27" measuredW="59" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Credit</text>
-      </controlProperties>
-    </control>
-    <control controlID="5" controlTypeID="com.balsamiq.mockups::Button" x="503" y="307" w="104" h="27" measuredW="61" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Option</text>
-      </controlProperties>
-    </control>
-    <control controlID="6" controlTypeID="com.balsamiq.mockups::Button" x="503" y="377" w="104" h="27" measuredW="48" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Button" x="503" y="377" w="104" h="27" measuredW="48" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Quit</text>
       </controlProperties>
